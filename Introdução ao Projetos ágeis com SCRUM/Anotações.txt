@@ -1,0 +1,12 @@
+Projetos ágeis com SCRUM
+
+-Projeto ágeis, mais utilizados e melhores resultados.
+
+Papeis e responsabilidades:
+-Product owner(PO): área de negócios
+-Srum Master(SM): garante o uso correto do SCRUM, facilitador.
+-Time de desenvolvimento (DEV): de 3 a 9 pessoas, testa, cria e desenha,
+entregar softeware funcionando.
+
+
+
