@@ -1,0 +1,15 @@
+Pilares do pensamento computacional:
+
+- Decomposição: dado um problema complexo, devemos quebra-lo em problemas menores.
+Por tantoproblemas mais fáceis e gerenciaveis.
+
+- Reconhecimento de padrões: generealizar, com objetivo de obter resolução para
+problemas diferentes.
+
+- Abstração: observar, um ou mais elementos, avaliando caracteristicas e propriedades
+em separado. Torna-se geral, mais amplo, extensão.
+
+- Algoritimo: processo de resolução de problemas passo a passo, utilizando instrulções.
+
+
+
