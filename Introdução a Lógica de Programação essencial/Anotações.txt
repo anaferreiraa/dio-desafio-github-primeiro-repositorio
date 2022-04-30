@@ -1,0 +1,21 @@
+                  Lógica de Programação
+
+"Contextualizar a lógica na programação de computadores, buscando a
+melhor sequência de ações para solucionar um problema"
+
+-Pseudocódigo: é uma forma genérica de escrever um algoritimo, utilizando
+uma linguagem simples. usa-se para aprender a usar código, na prática 
+usa-se uma linguagem profissional e comandos em inglês.
+
+-Fluxograma: é uma ferramenta utilizado para representar graficamente o 
+algoritimo, isto é, sequência lógica e coerente do fluxo de dados.
+
+-Variaveis: na programação é um objeto capaz de retere representar um valor 
+ou expressão.
+
+-Constantes: são valores imutáveis e não são alterados durante a vida útil 
+do programa.
+
+-Portugol: é uma pseudolinguagem que permite ao leitor desenvolver algoritimos 
+esstruturados em português de forma simples e intuitiva indepedente da linguagem
+de programação.
